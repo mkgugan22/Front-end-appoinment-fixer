@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+section {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.sec1 {
+  background-image: url(https://petkeen.com/wp-content/uploads/2020/07/baby-chicks_shutterstock_PCHT-760x526.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+  /* width: 600px;
+  height: 133px;   
+  margin: 0;
+  padding: 0px; */
+  /* background-position: top center; */
+}
+
+.sec2 {
+  background-image: url(https://media.istockphoto.com/id/1217649450/photo/chicken-or-hen-on-a-green-meadow.jpg?s=612x612&w=0&k=20&c=zRlZTkwoc-aWb3kI10OqlRLbiQw3R3_KUIchNVFgYgw=);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+}
+
+.sec3 {
+  background-image: url(https://cdn.downtoearth.org.in/library/large/2021-08-27/0.11853200_1630071916_0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+}
+
+.sec4 {
+  background-image: url(https://img.freepik.com/premium-vector/poultry-farming-with-chicken-egg-farm-green-field-background-view-cartoon-illustration_2175-8936.jpg?w=900);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+}
+
+.sec5 {
+  background-image: url(https://w0.peakpx.com/wallpaper/427/1017/HD-wallpaper-small-chickens-animal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: top center;
+}
+
+.content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 1rem, 5rem;
+  color: white;
+  align-self: flex-end;
+}

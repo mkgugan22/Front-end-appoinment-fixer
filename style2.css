@@ -1,0 +1,35 @@
+/* body{
+    background-image: url('https://wallpaperaccess.com/full/5715639.jpg');
+    background-repeat: no-repeat;
+} */
+.heading{
+    color: wheat;
+}
+.intro,.intro1{
+    text-align: center;
+    color: white;
+    border: 4px solid;
+    border-color:blanchedalmond;
+}
+.height{
+    line-height: 1.8;
+}
+.intro1{
+    line-height: 1.5;
+}
+.intro2,.intro3{
+    text-align: center;
+    color: white;
+    border: 4px solid;
+    border-color:blanchedalmond; 
+}
+.purecounter ,.purecounter1,.purecounter2{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #34c2ff;
+  }
+  .purecounter3{
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #34c2ff; 
+  }

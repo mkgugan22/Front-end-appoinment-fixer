@@ -1,0 +1,50 @@
+/* body{
+    background-image: url("https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+   /* background-position: top center; */
+   /* background-size: cover; */
+   /* background-size: 100%; */
+   /* background-repeat: no-repeat; */
+   /* background-attachment: fixed; */
+   /* width: auto; */
+  
+ /* } */ 
+ html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url('https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.container {
+  position: relative;
+  z-index: 1;
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 10px;
+  margin-top: 50px;
+}
+
+ h2,label{
+  color: brown;
+ }
+ 
+ a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+   color: white;
+}
+
+a:active {
+  text-decoration: underline;
+  color: white;
+}
