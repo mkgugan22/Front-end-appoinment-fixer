@@ -1,24 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Oswald&display=swap');
- /* body{
-    background-image: url('https://cdn.pixabay.com/photo/2016/11/29/05/25/chicken-1867521_1280.jpg'); *
-    background-repeat: no-repeat;
-    background-position: top center;
-   background-size: cover; 
-   background-size: 100%; 
-     background-size: cover; 
-  
-    background-attachment: fixed; 
- }   */
-
- html, body {
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-image: url('https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-  }
 .navigation{
      display: flex;
      justify-content: center;
