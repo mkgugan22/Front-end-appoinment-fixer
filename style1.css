@@ -1,13 +1,4 @@
-/* body{
-    background-image: url("https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
-   /* background-position: top center; */
-   /* background-size: cover; */
-   /* background-size: 100%; */
-   /* background-repeat: no-repeat; */
-   /* background-attachment: fixed; */
-   /* width: auto; */
-  
- /* } */ 
+
 body{
 background-image: url('https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); /* Replace 'path/to/background.jpg' with the actual path to your image */
      background-repeat: no-repeat;
