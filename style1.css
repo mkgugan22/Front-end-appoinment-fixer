@@ -8,14 +8,13 @@
    /* width: auto; */
   
  /* } */ 
- html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  background-image: url('https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
+body{
+background-image: url('https://images.pexels.com/photos/7085/desk-notebook-office-macbook.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'); /* Replace 'path/to/background.jpg' with the actual path to your image */
+     background-repeat: no-repeat;
+     background-size: cover;
+     width:100%;
+      height:100vh;
+    overflow:hidden;
 }
 
 .container {
