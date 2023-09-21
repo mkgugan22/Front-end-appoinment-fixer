@@ -51,7 +51,7 @@ body {
     color: white;
   }
  .media{
-     background-color: transparent;
+     background-color:  linear-gradient(135deg, #00feba,#5b548a);;
     padding: 0;
  }
 /*  .cover{
