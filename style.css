@@ -51,8 +51,8 @@ body {
     color: white;
   }
  .media{
-    background-color:burlywood;
-    padding: 5px ;
+     background-color: transparent;
+    padding: 0;
  }
 /*  .cover{
       width:100%;
